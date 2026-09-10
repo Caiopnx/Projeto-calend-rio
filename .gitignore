@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+backups/
+build/
+dist/
+*.log
+impressao/
+.env
+.env.*
