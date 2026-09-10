@@ -1,1 +1,1 @@
-
+"""Calendário de férias STMU."""
